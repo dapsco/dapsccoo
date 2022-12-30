@@ -1,0 +1,23 @@
+body{
+    background-color: #1c243b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+
+.container{
+    margin-top: 40px;
+}
+
+.black{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
